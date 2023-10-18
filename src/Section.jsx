@@ -5,7 +5,7 @@ import Home from './Home'
 import Men from './Men'
 import Women from './Women'
 import Electronics from './Electronics'
-import Jewelery from './jewelery'
+import Jewelery from './Jewelery'
 
 
 
