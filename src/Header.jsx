@@ -11,7 +11,7 @@ function Header(){
             <div style={{width:'80%',display:'flex',justifyContent:'space-between'}}>
 
             <div className="logo col-lg-4 col-4">
-                <img src="Hello.PNG" alt="logo" />
+                <img src="https://www.themespride.com/wp-content/themes/themespride/images/logo.png" alt="logo" />
             </div>
             <div className="text col-lg-4 col-4 text-light">
             Spring Special! Festive Sale! Enjoy 20% OFF Use Code: "NY23Festiv20"
